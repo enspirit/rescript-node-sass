@@ -1,6 +1,6 @@
 {
   "name": "@enspirit/bs-node-sass",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BuckleScript bindings for node-sass",
   "main": "src/NodeSass.bs.js",
   "homepage": "https://github.com/enspirit/bs-node-sass#readme",
