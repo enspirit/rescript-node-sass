@@ -1,6 +1,6 @@
-# bs-node-sass
+# rescript-node-sass
 
-[BuckleScript](https://bucklescript.github.io) bindings for [node-sass](https://github.com/sass/node-sass).
+[ReScript](https://rescript-lang.org) bindings for [node-sass](https://github.com/sass/node-sass).
 
 # Usage
 
