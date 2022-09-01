@@ -1,6 +1,6 @@
 {
   "name": "@enspirit/rescript-node-sass",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ReScript bindings for node-sass",
   "main": "src/NodeSass.bs.js",
   "homepage": "https://github.com/enspirit/rescript-node-sass#readme",
